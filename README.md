@@ -58,6 +58,8 @@ This Dashboard have 6 Pages ( 5 Main Pages & 1 Pages for Tooltip) :
 - Rank by Population
 - Tooltip Population
 
+![](WorldPopulation.png)
+
 ### You can interact with report here _[Novypro](https://www.novypro.com/project/world-population-)_
 
 ## 8. Conclusion & Recommendation
